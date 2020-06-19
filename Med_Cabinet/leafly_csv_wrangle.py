@@ -52,7 +52,7 @@ print(unique(stripped_effects))
 
 # 13 Unique Effects
 
-#Dry Mouth
+#Dry Mouth - not included in survey
 #Euphoric
 #Happy
 #Relaxed
